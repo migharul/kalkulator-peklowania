@@ -1,0 +1,42 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<clipPath id="rounded"><rect x="0" y="0" width="512" height="512" rx="80"/></clipPath>
+</defs>
+<g clip-path="url(#rounded)">
+<rect x="0" y="0" width="512" height="512" fill="#2a1a1a"/>
+<circle cx="256" cy="500" r="280" fill="#2f1e1e" opacity="0.5"/>
+<ellipse cx="256" cy="438" rx="68" ry="16" fill="#1a0e0e"/>
+<ellipse cx="256" cy="434" rx="62" ry="14" fill="#3d2a1a"/>
+<ellipse cx="256" cy="431" rx="56" ry="11" fill="#4a3420"/>
+<rect x="252" y="150" width="8" height="284" rx="3" fill="#7a6030"/>
+<rect x="254" y="155" width="4" height="276" rx="2" fill="#b49050"/>
+<rect x="255.5" y="160" width="1.5" height="268" rx="1" fill="#d4b070" opacity="0.4"/>
+<circle cx="256" cy="148" r="14" fill="#7a6030"/>
+<circle cx="256" cy="148" r="11" fill="#b49050"/>
+<circle cx="256" cy="148" r="5" fill="#d4b070"/>
+<polygon points="256,108 251,133 261,133" fill="#7a6030"/>
+<polygon points="256,112 252.5,131 259.5,131" fill="#b49050"/>
+<ellipse cx="256" cy="106" rx="8" ry="7" fill="#7a6030"/>
+<ellipse cx="256" cy="104.5" rx="6.5" ry="5.5" fill="#b49050"/>
+<ellipse cx="256" cy="103" rx="4" ry="3" fill="#d4b070" opacity="0.5"/>
+<rect x="112" y="144" width="288" height="8" rx="4" fill="#7a6030"/>
+<rect x="116" y="146" width="280" height="4" rx="2" fill="#b49050"/>
+<rect x="120" y="147" width="272" height="1.5" rx="1" fill="#d4b070" opacity="0.35"/>
+<path d="M112,148 Q100,144 104,154 L112,152Z" fill="#7a6030"/>
+<path d="M400,148 Q412,144 408,154 L400,152Z" fill="#7a6030"/>
+<circle cx="108" cy="150" r="5" fill="#b49050"/>
+<circle cx="404" cy="150" r="5" fill="#b49050"/>
+<line x1="103" y1="155" x2="78" y2="265" stroke="#b49050" stroke-width="2" fill="none" stroke-linecap="round"/>
+<line x1="113" y1="155" x2="138" y2="265" stroke="#b49050" stroke-width="2" fill="none" stroke-linecap="round"/>
+<line x1="108" y1="155" x2="108" y2="270" stroke="#b49050" stroke-width="2" fill="none" stroke-linecap="round"/>
+<line x1="399" y1="155" x2="374" y2="265" stroke="#b49050" stroke-width="2" fill="none" stroke-linecap="round"/>
+<line x1="409" y1="155" x2="434" y2="265" stroke="#b49050" stroke-width="2" fill="none" stroke-linecap="round"/>
+<line x1="404" y1="155" x2="404" y2="270" stroke="#b49050" stroke-width="2" fill="none" stroke-linecap="round"/>
+<ellipse cx="108" cy="280" rx="58" ry="12" fill="#7a6030"/>
+<ellipse cx="108" cy="277" rx="50" ry="8.5" fill="#967440"/>
+<ellipse cx="108" cy="275" rx="34" ry="5" fill="#b49050" opacity="0.35"/>
+<ellipse cx="404" cy="280" rx="58" ry="12" fill="#7a6030"/>
+<ellipse cx="404" cy="277" rx="50" ry="8.5" fill="#967440"/>
+<ellipse cx="404" cy="275" rx="34" ry="5" fill="#b49050" opacity="0.35"/>
+</g>
+</svg>
